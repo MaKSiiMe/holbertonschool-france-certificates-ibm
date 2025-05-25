@@ -1,1 +1,1 @@
-[![Badge IBM Agile Explorer](https://images.credly.com/size/110x110/images/1fbc9bc7-bc3f-4954-9f6d-94f0c4946694/ibm-agile-explorer.png)](https://www.credly.com/badges/1fbc9bc7-bc3f-4954-9f6d-94f0c4946694/public_url)
+[![Badge IBM Agile Explorer](/holbertonschool-france-certificates-ibm/images/agile-explorer.png)](https://www.credly.com/badges/1fbc9bc7-bc3f-4954-9f6d-94f0c4946694/public_url)
