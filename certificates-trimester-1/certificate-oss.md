@@ -1,1 +1,1 @@
-[![Badge IBM Open Source Software](/holbertonschool-france-certificates-ibm/images/open-source-foundations.png)](https://www.credly.com/badges/e7886eff-c403-4d92-8540-58982e6e2d82/public_url)
+[![Badge IBM Open Source Software](../images/open-source-foundations.png)](https://www.credly.com/badges/e7886eff-c403-4d92-8540-58982e6e2d82/public_url)
