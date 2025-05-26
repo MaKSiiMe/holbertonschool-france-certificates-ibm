@@ -1,0 +1,1 @@
+[![Badge IBM SQL and relational databases](../images/IBM%20OS0101EN%20Certificate%20_%20IBM%20SkillsBuild.pdf)]()
