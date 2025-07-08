@@ -1,1 +1,1 @@
-[![Badge IBM Project Management Fundamentals](../images/)]()
+[![Badge IBM Project Management Fundamentals](../images/holbertonschool-france-certificates-ibm/images/ProjectManagementFundamentals_Badge20250708-28-99fu2p.pdf)]()
